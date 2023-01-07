@@ -7,8 +7,6 @@ The Folder is a project to recreate the last flip phone LG has made using PowerP
 
 # Instruction
 
-Press [this](https://m.blog.naver.com/saucecompany_/222570897520) link. Download 'The Folder.ppsx' by pressing the download button on the right.
+1. Go to [releases](https://github.com/Dr-Sauce/thefolder/releases/latest) and download the latest version.
 
-Open the file with PowerPoint. Enjoy.!
-
-![BA65BE30-69CA-478E-A200-7F6EF7398D8F](https://user-images.githubusercontent.com/82555878/208378137-04cba38e-81de-4cac-8b6b-7a14f3230038.png)
+2. Open the file with PowerPoint. 
