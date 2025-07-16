@@ -7,10 +7,4 @@ Experience LG Folder(LG Exalt/Wine LTE) via PowerPoint.
 
 1. Go to [releases](https://github.com/Dr-Sauce/thefolder/releases/latest) and download the latest version.
 
-2. Open the file with PowerPoint.
-
-# TL;DR
-
-Currently, development has been paused. 
-
-If you have interest in continuing, leave an [issue](https://github.com/Dr-Sauce/TheFolder/issues/new).
+2. Open the file with PowerPoint. Works best on PC.
